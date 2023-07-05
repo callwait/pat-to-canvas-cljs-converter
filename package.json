@@ -1,0 +1,19 @@
+{
+  "name": "pat-to-canvas-cljs-converter",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "dev": "shadow-cljs watch app",
+    "release": "shadow-cljs release app",
+    "server": "shadow-cljs server",
+    "clean": "rm -rf target && rm -rf public/js"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.24.1"
+  },
+  "dependencies": {
+    "create-react-class": "^15.7.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
