@@ -1,4 +1,3 @@
-*HSTON1E0,Free patterns from www.CADhatch.com
 0,0,1,0,50,5,-45
 0,0,49,0,50,6,-44
 0,0,40,0,50,6,-44

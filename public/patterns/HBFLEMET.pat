@@ -1,4 +1,3 @@
-*HBFLEMET,Brickworkflemishbond Free patterns from www.CADhatch.com
 0,0,10,0,150,215,-122.5
 0,0,75,0,150,215,-122.5
 0,225,10,0,150,102.5,-235
